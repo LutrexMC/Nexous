@@ -1,21 +1,15 @@
-# Nexous
-Nexous.de bietet euch hochwertige Features an, und versorgt euch regelmäßig mit Updates. Unser Server basiert derzeit auf der Version 1.19.4. Außerdem ist es auch möglich mit der Bedrock Edition dem Server beizutreten.
+# ⚒️ Wiki
 
-## Features
-Dies ist nur eine kleine Liste der vielen verfügbaren Features
-* VoteParty 
-* Bank 
-* Jobs
-* Spielerwarps
-* Bestenlisten
-* Crates
-* Lootchests 
-* Marktplatz
-* Farmwelten
-* Shops
-* Erfolge
-* Quests 
-* Plots
+{% hint style="danger" %}
+Das Wiki befindet sich aktuell noch im Aufbau und ist daher noch nicht vollständig.
+{% endhint %}
 
-## Wiki
-Schau dir das [Wiki](https://github.com/LutrexMC/Nexous/wiki) an, für mehr Details und weitere Informationen.
+<figure><img src=".gitbook/assets/LogoNEW.png" alt="" width="125"><figcaption></figcaption></figure>
+
+## Über Nexous
+
+Nexous ist ein deutsches Minecraft-Netzwerk, das am 15.11.2020 gegründet wurde und sowohl Java 1.21 als auch Minecraft Bedrock unterstützt. Bei uns erwartet dich ein erstklassiger CityBuild, der regelmäßig mit Updates erweitert wird.
+
+## Informationen&#x20;
+
+Dieses Wiki bietet eine Übersicht über die Besonderheiten des Servers sowie wichtige Links zum Server und unseren sozialen Medien. Bei offenen Fragen kannst du unser Support-Team auf Discord kontaktieren.

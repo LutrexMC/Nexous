@@ -8,7 +8,7 @@ Um in die Farmwelten zu gelangen, begib dich einfach in die CityBuild-Lobby und 
 
 ## Farmwelt Reset
 
-Die Farmwelten werden in der Regel alle zwei Wochen sonntags zurückgesetzt. Während des Resets bleibt der Zugang zu den Farmwelten für etwa 5 Minuten gesperrt. Alle in der Farmwelt gesetzten Home-Punkte werden dabei gelöscht.
+Die Farmwelten werden automatisch alle zwei Wochen sonntags um 15 Uhr zurückgesetzt. Während des Resets bleibt der Zugang zu den Farmwelten für etwa 5 Minuten gesperrt. Alle in der Farmwelt gesetzten Home-Punkte werden dabei gelöscht.
 
 ## Größe
 

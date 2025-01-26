@@ -10,6 +10,7 @@
 * [🎥 Media Anforderungen](allgemein/media-anforderungen.md)
 * [🕰️ Geschichte](allgemein/geschichte.md)
 * [🩷 Partner](allgemein/partner.md)
+* [🔮 Kristalle-Shop](allgemein/kristalle-shop.md)
 
 ## CityBuild
 
@@ -27,7 +28,6 @@
 * [🛍️ Shops](citybuild/shops/README.md)
   * [📦 Spielershops](citybuild/shops/spielershops.md)
   * [🛒 Ingame-Shop](citybuild/shops/ingame-shop.md)
-  * [🔮 Kristalle-Shop](citybuild/shops/kristalle-shop.md)
   * [🛍️ Marktplatz](citybuild/shops/marktplatz.md)
   * [🏚️ Auktionshaus](citybuild/shops/auktionshaus.md)
 * [🤝 Trade](citybuild/trade.md)
@@ -41,15 +41,24 @@
 * [🎨 Namensfarben](citybuild/namensfarben.md)
 * [📜 Titel](citybuild/titel.md)
 * [🪙 Schatztruhen](citybuild/schatztruhen.md)
-* [🛗 Fahrstühle](citybuild/fahrstuhle.md)
 * [⚔️ Kopfgeld](citybuild/kopfgeld.md)
 
-## Islands
+## WildSMP
 
-* [🏝️ Information](islands/information.md)
+* [⌨️ Befehlsübersicht](wildsmp/befehlsubersicht.md)
+* [🏡 Claims](wildsmp/claims.md)
+* [🔮 Talismane](wildsmp/talismane.md)
+* [🚸 Tags](wildsmp/tags.md)
+* [🛗 Fahrstühle](wildsmp/fahrstuhle.md)
+* [🪦 Grabsteine](wildsmp/grabsteine.md)
+* [⚔️ PvP System](wildsmp/pvp-system.md)
+* [⏲️ Time Vote](wildsmp/time-vote.md)
+* [🦋 Flugzeit](wildsmp/flugzeit.md)
+* [🌀 Aufgaben](wildsmp/aufgaben.md)
 
 ## Regelwerk
 
 * [✅ Regeln: Discord](regelwerk/regeln-discord.md)
 * [✅ Regeln: Minecraft](regelwerk/regeln-minecraft.md)
 * [✅ Regeln: CityBuild](regelwerk/regeln-citybuild.md)
+* [✅ Regeln: WildSMP](regelwerk/regeln-wildsmp.md)
